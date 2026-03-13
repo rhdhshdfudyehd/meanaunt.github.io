@@ -1,1 +1,1 @@
-# meanaunt.github.io
+# github.io
